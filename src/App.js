@@ -4,6 +4,7 @@ import Nav from './components/Nav';
 import List from './components/List';
 import Note from './components/Note';
 import axios from 'axios';
+import urlFor from './helpers/urlFor';
 
 class App extends Component {
 
@@ -23,7 +24,7 @@ toggleNote = () => {
 
 
 getNotes = () => {
-  axios.get('https://note-api-carl-hofstrom.herokuapp.com/notes')
+  axios.get(urlFor('notes'))
   .then((res) => console.log(res.data) )
   .catch((err) => console.log(err.response.data) );
   }
