@@ -20,7 +20,8 @@ constructor() {
 
 toggleNote = () => {
   this.setState({
-    showNote: ! this.state.showNote
+    showNote: ! this.state.showNote,
+    note: {}
   });
 }
 
