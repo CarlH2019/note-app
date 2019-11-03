@@ -12,3 +12,7 @@ Built using ReactJS, it starts with a homepage that includes a list of all the n
 By using a pre-built Note API, I first set up my back-end @ https://note-api-carl-hofstrom.herokuapp.com/notes
 Then I set up my front-end using https://github.com/facebook/create-react-app
 Then I added code accordingly. 
+
+
+Carl Hofstrom
+hofstromcarl@gmail.com
