@@ -1,4 +1,4 @@
-![](Images/Note%202)
+![](Images/Note2.PNG)
 
 
 You can create,update,and delete your own notes on this fluid user interface! 
