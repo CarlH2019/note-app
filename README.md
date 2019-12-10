@@ -15,8 +15,8 @@ How to use:
 
 Application Features:
 
-Back-end set up using a pre-built Note API @ https://note-api-carl-hofstrom.herokuapp.com/notes
-Front-end https://github.com/facebook/create-react-app
+Back-end set up using a pre-built Note API @ https://note-api-carl-hofstrom.herokuapp.com/notes,
+Front-end https://github.com/facebook/create-react-app,
 Flash notifications that alert user of validation errors 
 
 
